@@ -4,10 +4,10 @@
 
 ## 開発環境
 
-* AWS Cloud9
-* Ruby
-* Git
-* Heroku
+- AWS Cloud9
+- Ruby
+- Git
+- Heroku
 
 ```
 $ git clone https://github.com/sample-874/sample-app.git
@@ -32,7 +32,7 @@ $ rails db:migrate
 $ rails db:seed
 ```
 
-これでRailsサーバーを立ち上げる準備が整いました。
+これで Rails サーバーを立ち上げる準備が整いました。
 
 ```
 $ rails server
@@ -40,5 +40,8 @@ $ rails server
 
 ユーザーの新規作成やログインなどは既に出来る状態になっているはずです。
 
-* **email** : sample@email.com
-* **password** : password
+- **email** : sample@email.com
+- **password** : password
+
+kinA
+# kinA
