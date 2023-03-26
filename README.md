@@ -45,3 +45,4 @@ $ rails server
 
 kinA
 # kinA
+# kA
