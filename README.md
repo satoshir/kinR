@@ -44,5 +44,7 @@ $ rails server
 - **password** : password
 
 kinA
+
 # kinA
-# kA
+
+# k
